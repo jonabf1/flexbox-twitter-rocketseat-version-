@@ -3,5 +3,3 @@
 </p>
 
 ![Alt Text](assets/readme.gif)
-
-![Farmers Market Finder Demo](assets/demo.gif)
