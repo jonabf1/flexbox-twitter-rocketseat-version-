@@ -1,0 +1,13 @@
+<svg id="Symbols" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="twitter_retweet" data-name="twitter/retweet" transform="translate(-70 -95)">
+    <g id="Tweet">
+      <g id="Content" transform="translate(68 20)">
+        <g id="Info-tweet" transform="translate(2 75)">
+          <g id="chat-round">
+            <path id="Shape" d="M15.5,7C15.5,3.41,12.142.5,8,.5S.5,3.41.5,7,3.858,13.5,8,13.5a8.652,8.652,0,0,0,1.532-.137L13.5,15.5V11.409A6.03,6.03,0,0,0,15.5,7Z" fill="none" stroke="#7159c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

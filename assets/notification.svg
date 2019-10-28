@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="19.5" viewBox="0 0 16 19.5">
+  <g id="Page-1" transform="translate(0 -0.5)">
+    <g id="TWITTER-PROFILE-2018" transform="translate(-220 -13)">
+      <g id="Header">
+        <g id="Left-side" transform="translate(128 8)">
+          <g id="Notifications" transform="translate(92)">
+            <g id="ic_notifications_none_24px" transform="translate(0 5)">
+              <path id="Shape" d="M8,20a2.006,2.006,0,0,0,2-2H6A2.006,2.006,0,0,0,8,20Zm6-6V9c0-3.07-1.63-5.64-4.5-6.32V2a1.5,1.5,0,0,0-3,0v.68C3.64,3.36,2,5.92,2,9v5L0,16v1H16V16Zm-2,1H4V9C4,6.52,5.51,4.5,8,4.5S12,6.52,12,9Z" fill="#7159c1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
